@@ -812,12 +812,12 @@
     "theme": "Side",
     "appTheme": "App",
     "openSEO": true,
-    "openSearch": false,
+    "openSearch": true,
     "showRate": false,
     "showThemeToggle": true,
     "showGithub": false,
     "showLanguage": true,
-    "lightCardStyle": "icon",
+    "lightCardStyle": "standard",
     "appCardStyle": "standard",
     "loading": "loading1",
     "footerContent": "<footer class=\"dark-white\">\n  <div>共收录 ${total} 个网站</div>\n  <div class=\"footer-links\">\n    <a href=\"https://github.com/wenjin-hub/nav\" target=\"_blank\" rel=\"noopener\">GitHub</a>\n    <span>·</span>\n    <a href=\"https://github.com/wenjin-hub/nav/issues\" target=\"_blank\" rel=\"noopener\">反馈</a>\n    <span>·</span>\n    <a href=\"#\" (click)=\"scrollToTop(); $event.preventDefault()\">返回顶部</a>\n  </div>\n  <div>©${year}问津导航</div>\n</footer>",
@@ -830,9 +830,49 @@
       "clear",
       "launchpad",
       "panorama",
-      "board"
+      "board",
+      "mobile"
     ],
-    "accessPwdHash": "4c0279940cc283c3e09a5b5761b6b73cf9dfc19343780f481ceb68c7f4057f64"
+    "accessPwdHash": "4c0279940cc283c3e09a5b5761b6b73cf9dfc19343780f481ceb68c7f4057f64",
+    "layoutOptions": {
+      "clear": {
+        "background": "./assets/background-1.b4a736962d.jpg",
+        "cardStyle": "",
+        "cardOpacity": 100,
+        "sectionOpacity": 100,
+        "columns": 6
+      },
+      "launchpad": {
+        "background": "./assets/background-1.b4a736962d.jpg",
+        "cardStyle": "",
+        "cardOpacity": 100,
+        "sectionOpacity": 100,
+        "columns": 6
+      },
+      "panorama": {
+        "background": "./assets/background-1.b4a736962d.jpg",
+        "cardStyle": "",
+        "cardOpacity": 100,
+        "sectionOpacity": 25,
+        "columns": 6
+      },
+      "board": {
+        "background": "./assets/background-1.b4a736962d.jpg",
+        "cardStyle": "",
+        "cardOpacity": 100,
+        "sectionOpacity": 100,
+        "columns": 6
+      },
+      "mobile": {
+        "background": "./assets/background-1.b4a736962d.jpg",
+        "cardStyle": "",
+        "cardOpacity": 100,
+        "sectionOpacity": 100,
+        "columns": 6
+      }
+    },
+    "searchVisibilityRevision": 1,
+    "adminPwdHash": "b9333d57dbd733f0cd7efbf5edbb24e320abba5d1abd63be8ff5d7dce1c12ce4"
   },
   "groupedSearchEngines": [
     {
