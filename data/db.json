@@ -61,6 +61,18 @@
               "id": 90
             }
           ]
+        },
+        {
+          "name": "Python",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQElEQVR4nGRTTWgTQRR+u1mbNFXEgKIVL4KXXrx48uAhELwI/kBAr6IXRXPORRA8CCL0ZsWDl+KlB7EoFUVULGKjRq9WxFqracVISLo7s/Pzxjeb3XbSPPiY/fm+730z+zaALXXy9quHMhbHUIuSkjEoIUDFjAvO7zXuXKoThRN0xve3GmitTj2pV0paSdBSAtKKqAsAeIVeHyAUXP6wAYmOX5+FxCADPUtrH6Ho8oMk9uT8NZTyoBDME5xNC9YNFI9ymuL7I/mqMZjx84TcgMGZybcvtJZl1Ao8RPDAQC4Y6VO9XJLALbNcbaEMuYrDW/mJ1zd9NLrcjyoGY6fISvHeHC0SVAS+ZoXAsMt0Px5kRHRE6Oyb4nMdhy+b9+t3/zYrFVAMEhNkJXsmwYCYRPF6Z+7XwuyDlebzjm1sPQhi+U1lYteYqoEmAx0lJlSjgRIxJ4OCNWDd9kxj6up0b6l2tjh66LSNukFWIWTd7YqK23nwfKXUUhb9d+PZo/Bn7eL2MX2OIjriyBETNIcoMu9tMh95OEXTxq3BSvNxp1jQJzYFjsgR2/q0GD+lpeelk2UHZD8hNq3zjYz8Z60z42Nokn1Lu3eWiL/+kJ+PXmi/o8vvdpAEYZXQTQ7M6bZnp6qC0nY86V6Cd2S1TJx1Akv5bTvKmD5oE/6hjHg/qoPDi4DG8PSLtAjf0jUa+hfCbrcqefgRRcizJHJh/Mv8B34jGSQSpQ3ttfFguOyZ7CbsJewgbEtT9tKua9D/pZP6DwAA///bXaR6AAAABklEQVQDAMqfsPgOfk5XAAAAAElFTkSuQmCC",
+          "url": "https://www.python.org/shell",
+          "desc": "Python学习官方最权威，界面极简",
+          "rate": 5,
+          "id": 33,
+          "top": false,
+          "index": "",
+          "ownVisible": false,
+          "topTypes": []
         }
       ]
     },
@@ -568,18 +580,6 @@
               "topTypes": []
             }
           ]
-        },
-        {
-          "name": "Python",
-          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQElEQVR4nGRTTWgTQRR+u1mbNFXEgKIVL4KXXrx48uAhELwI/kBAr6IXRXPORRA8CCL0ZsWDl+KlB7EoFUVULGKjRq9WxFqracVISLo7s/Pzxjeb3XbSPPiY/fm+730z+zaALXXy9quHMhbHUIuSkjEoIUDFjAvO7zXuXKoThRN0xve3GmitTj2pV0paSdBSAtKKqAsAeIVeHyAUXP6wAYmOX5+FxCADPUtrH6Ho8oMk9uT8NZTyoBDME5xNC9YNFI9ymuL7I/mqMZjx84TcgMGZybcvtJZl1Ao8RPDAQC4Y6VO9XJLALbNcbaEMuYrDW/mJ1zd9NLrcjyoGY6fISvHeHC0SVAS+ZoXAsMt0Px5kRHRE6Oyb4nMdhy+b9+t3/zYrFVAMEhNkJXsmwYCYRPF6Z+7XwuyDlebzjm1sPQhi+U1lYteYqoEmAx0lJlSjgRIxJ4OCNWDd9kxj6up0b6l2tjh66LSNukFWIWTd7YqK23nwfKXUUhb9d+PZo/Bn7eL2MX2OIjriyBETNIcoMu9tMh95OEXTxq3BSvNxp1jQJzYFjsgR2/q0GD+lpeelk2UHZD8hNq3zjYz8Z60z42Nokn1Lu3eWiL/+kJ+PXmi/o8vvdpAEYZXQTQ7M6bZnp6qC0nY86V6Cd2S1TJx1Akv5bTvKmD5oE/6hjHg/qoPDi4DG8PSLtAjf0jUa+hfCbrcqefgRRcizJHJh/Mv8B34jGSQSpQ3ttfFguOyZ7CbsJewgbEtT9tKua9D/pZP6DwAA///bXaR6AAAABklEQVQDAMqfsPgOfk5XAAAAAElFTkSuQmCC",
-          "url": "https://www.python.org/shell",
-          "desc": "Python学习官方最权威，界面极简",
-          "rate": 5,
-          "id": 33,
-          "top": false,
-          "index": "",
-          "ownVisible": false,
-          "topTypes": []
         }
       ]
     },
