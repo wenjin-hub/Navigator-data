@@ -878,15 +878,6 @@
       "category": "网盘",
       "url": "https://panhub.shenzjd.com/?kw=${q}",
       "isInner": false
-    },
-    {
-      "category": "搜索",
-      "name": "360",
-      "url": "https://www.so.com/s?cp=0e29fc0022&sp=a7f&fr=360sou_newhome&src=srp&q=${q}&ssid=5827ad66b37443ecb53bff64c5b5fe22&nlpv=c71&psid=83a77ad52ce6946b6f48f845810b63b2",
-      "icon": "",
-      "placeholder": "",
-      "isInner": false,
-      "needsSearchUrl": false
     }
   ],
   "searchCatalogRevision": 2,
