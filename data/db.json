@@ -61,18 +61,6 @@
               "id": 90
             }
           ]
-        },
-        {
-          "name": "Python",
-          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQElEQVR4nGRTTWgTQRR+u1mbNFXEgKIVL4KXXrx48uAhELwI/kBAr6IXRXPORRA8CCL0ZsWDl+KlB7EoFUVULGKjRq9WxFqracVISLo7s/Pzxjeb3XbSPPiY/fm+730z+zaALXXy9quHMhbHUIuSkjEoIUDFjAvO7zXuXKoThRN0xve3GmitTj2pV0paSdBSAtKKqAsAeIVeHyAUXP6wAYmOX5+FxCADPUtrH6Ho8oMk9uT8NZTyoBDME5xNC9YNFI9ymuL7I/mqMZjx84TcgMGZybcvtJZl1Ao8RPDAQC4Y6VO9XJLALbNcbaEMuYrDW/mJ1zd9NLrcjyoGY6fISvHeHC0SVAS+ZoXAsMt0Px5kRHRE6Oyb4nMdhy+b9+t3/zYrFVAMEhNkJXsmwYCYRPF6Z+7XwuyDlebzjm1sPQhi+U1lYteYqoEmAx0lJlSjgRIxJ4OCNWDd9kxj6up0b6l2tjh66LSNukFWIWTd7YqK23nwfKXUUhb9d+PZo/Bn7eL2MX2OIjriyBETNIcoMu9tMh95OEXTxq3BSvNxp1jQJzYFjsgR2/q0GD+lpeelk2UHZD8hNq3zjYz8Z60z42Nokn1Lu3eWiL/+kJ+PXmi/o8vvdpAEYZXQTQ7M6bZnp6qC0nY86V6Cd2S1TJx1Akv5bTvKmD5oE/6hjHg/qoPDi4DG8PSLtAjf0jUa+hfCbrcqefgRRcizJHJh/Mv8B34jGSQSpQ3ttfFguOyZ7CbsJewgbEtT9tKua9D/pZP6DwAA///bXaR6AAAABklEQVQDAMqfsPgOfk5XAAAAAElFTkSuQmCC",
-          "url": "https://www.python.org/shell",
-          "desc": "Python学习官方最权威，界面极简",
-          "rate": 5,
-          "id": 33,
-          "top": false,
-          "index": "",
-          "ownVisible": false,
-          "topTypes": []
         }
       ]
     },
@@ -580,6 +568,18 @@
               "topTypes": []
             }
           ]
+        },
+        {
+          "name": "Python",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQElEQVR4nGRTTWgTQRR+u1mbNFXEgKIVL4KXXrx48uAhELwI/kBAr6IXRXPORRA8CCL0ZsWDl+KlB7EoFUVULGKjRq9WxFqracVISLo7s/Pzxjeb3XbSPPiY/fm+730z+zaALXXy9quHMhbHUIuSkjEoIUDFjAvO7zXuXKoThRN0xve3GmitTj2pV0paSdBSAtKKqAsAeIVeHyAUXP6wAYmOX5+FxCADPUtrH6Ho8oMk9uT8NZTyoBDME5xNC9YNFI9ymuL7I/mqMZjx84TcgMGZybcvtJZl1Ao8RPDAQC4Y6VO9XJLALbNcbaEMuYrDW/mJ1zd9NLrcjyoGY6fISvHeHC0SVAS+ZoXAsMt0Px5kRHRE6Oyb4nMdhy+b9+t3/zYrFVAMEhNkJXsmwYCYRPF6Z+7XwuyDlebzjm1sPQhi+U1lYteYqoEmAx0lJlSjgRIxJ4OCNWDd9kxj6up0b6l2tjh66LSNukFWIWTd7YqK23nwfKXUUhb9d+PZo/Bn7eL2MX2OIjriyBETNIcoMu9tMh95OEXTxq3BSvNxp1jQJzYFjsgR2/q0GD+lpeelk2UHZD8hNq3zjYz8Z60z42Nokn1Lu3eWiL/+kJ+PXmi/o8vvdpAEYZXQTQ7M6bZnp6qC0nY86V6Cd2S1TJx1Akv5bTvKmD5oE/6hjHg/qoPDi4DG8PSLtAjf0jUa+hfCbrcqefgRRcizJHJh/Mv8B34jGSQSpQ3ttfFguOyZ7CbsJewgbEtT9tKua9D/pZP6DwAA///bXaR6AAAABklEQVQDAMqfsPgOfk5XAAAAAElFTkSuQmCC",
+          "url": "https://www.python.org/shell",
+          "desc": "Python学习官方最权威，界面极简",
+          "rate": 5,
+          "id": 33,
+          "top": false,
+          "index": "",
+          "ownVisible": false,
+          "topTypes": []
         }
       ]
     },
@@ -597,7 +597,7 @@
               "name": "163邮箱6.0版",
               "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADB0lEQVR4nGxTTWhcVRT+zrnvzX/amUxikRjUVBOtBFdCEdQKRrGQ0VJcKBTtUtFS6UZQUcGNbUUGFEEXotKggi4FF1WoC8GoFaXQppomWjo2mXammWRm3r3vneOdtFPS0rc67977fefv+wLc4DttStNpDl6KWafyYHRUagT9tGvtuxNo1Te+pevBf6XKr+bAb1sfq+pMRHIyS/xgQfmRNeifiXWV29FcUI/1YOUe6E2AL2cuVgY82AFtKzLVcvUXhy2O3hrVpxoSHx4inpTAfKQbEq8HfbZ/U+WvizC7liFHxmx9z0I4eDhP5ulLNn4MaCwhNbwYQNNi7fYxrPzcw/EVFu1V4ZRGE/+TqPzqL4246NA3dnnbb2jMtQEnqi0/EzUmHO8XEPRL8QTyHGEpACkp39LjWQzSz+/m/FNdaDMGMhZabPu2bZKc7WHe2tAC+0Dmw+KeMqU+a0D/S2z3oa1ozdWC4g7P2OqomR40wRsXVWZXbf3he4G1G25hPhg6FDIdiKA19rNQ6HFVKjDR7hzMjovWProNzWP9pFcJvgPyd6BUlpCnQ1DVEIwj6mSVshn/tKOKtmqUVRz3xPtudhdm0R/imbD87GR6eCVIB4sjHLwfEk4lIvf7Vb7iYzSSZLaVuAeYdGkz03bL/NVpFIbR10Gsds5nmolFqrXYTp+3qzuF+fGbyFQjxYm261TyRE/mQaPnRI6mQbcZk6r0sOsEd8atn3bZpb1+U0eE+J5SWPh9hMzrqypfnrMrlU1h5rURTh1YFfmQXHcfQ8UZjPaw62v8BcgNpodOjsCMern68cqPy3Fy0FHS3BIWvtjC5r5FcZ9sdRdeOGU27cz51i+pnr9KMA9EmxP94B9yllVnI0gmy8EzJQ73tvzgzrho/13SrP6NgXFf+kF/5hIXf3/NGn/wQpnwRuoCTwzATMakiEQ/JqLSACG35p3lxTRVIE41RPePu+XqugX6PlhA4W5NZU74uBZDZtjq52No/HE2HHrZa+CdjvdmqDjWkeS9iaTxbR/3PwAAAP///1L9GwAAAAZJREFUAwDNcHlTaiv3FAAAAABJRU5ErkJggg==",
               "url": "https://mail.163.com/js6/main.jsp?sid=XDkaASTSXYTTLUOFGfSSdkFlnDSQvtWR&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D",
-              "desc": "",
+              "desc": "办公邮箱，邮箱聚合管理",
               "rate": 5,
               "id": 29
             }
@@ -833,7 +833,7 @@
       "board",
       "mobile"
     ],
-    "accessPwdHash": "4c0279940cc283c3e09a5b5761b6b73cf9dfc19343780f481ceb68c7f4057f64",
+    "accessPwdHash": "7fd030915963d3fc114e3bb23e7170b48052278276c3385bd0b03d229a74490e",
     "layoutOptions": {
       "clear": {
         "background": "./assets/background-1.b4a736962d.jpg",
@@ -852,7 +852,7 @@
       "panorama": {
         "background": "./assets/background-1.b4a736962d.jpg",
         "cardStyle": "",
-        "cardOpacity": 100,
+        "cardOpacity": 50,
         "sectionOpacity": 25,
         "columns": 6
       },
