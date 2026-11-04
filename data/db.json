@@ -893,7 +893,7 @@
         "backgroundSource": "preset",
         "presetId": "background-1",
         "backgroundFit": "cover",
-        "cardStyle": "standard",
+        "cardStyle": "compact",
         "cardOpacity": 100,
         "sectionOpacity": 100,
         "columns": 6
