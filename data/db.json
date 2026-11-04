@@ -808,6 +808,14 @@
           "desc": "",
           "icon": "",
           "tags": []
+        },
+        {
+          "id": 107,
+          "name": "签到管理 - APP喵：资源",
+          "url": "https://www.appmiu.com/mission/today",
+          "desc": "",
+          "icon": "",
+          "tags": []
         }
       ],
       "ownVisible": true
@@ -836,16 +844,7 @@
           "id": 106,
           "title": "移动设备书签",
           "icon": "",
-          "nav": [
-            {
-              "id": 107,
-              "name": "签到管理 - APP喵：资源",
-              "url": "https://www.appmiu.com/mission/today",
-              "desc": "",
-              "icon": "",
-              "tags": []
-            }
-          ]
+          "nav": []
         }
       ]
     }
