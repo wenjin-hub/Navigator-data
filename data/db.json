@@ -889,35 +889,50 @@
     "accessPwdHash": "4c0279940cc283c3e09a5b5761b6b73cf9dfc19343780f481ceb68c7f4057f64",
     "layoutOptions": {
       "clear": {
-        "background": "./assets/background-1.b4a736962d.jpg",
+        "background": "",
+        "backgroundSource": "preset",
+        "presetId": "background-1",
+        "backgroundFit": "cover",
         "cardStyle": "standard",
         "cardOpacity": 100,
         "sectionOpacity": 100,
         "columns": 6
       },
       "launchpad": {
-        "background": "./assets/background-1.b4a736962d.jpg",
+        "background": "",
+        "backgroundSource": "preset",
+        "presetId": "background-1",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
         "columns": 6
       },
       "panorama": {
-        "background": "./assets/background-1.b4a736962d.jpg",
+        "background": "",
+        "backgroundSource": "preset",
+        "presetId": "background-1",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 50,
         "sectionOpacity": 25,
         "columns": 6
       },
       "board": {
-        "background": "./assets/background-1.b4a736962d.jpg",
+        "background": "",
+        "backgroundSource": "preset",
+        "presetId": "background-1",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
         "columns": 6
       },
       "mobile": {
-        "background": "./assets/background-1.b4a736962d.jpg",
+        "background": "",
+        "backgroundSource": "preset",
+        "presetId": "background-1",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
@@ -988,6 +1003,17 @@
       "./assets/background-4.8dda920715.jpg"
     ],
     "desktopColumns": 6,
-    "accessPwdHash": "298a69a0749d11ff42595ddd40f60127314227a46a49e3a4a28d23de265b0668"
+    "accessPwdHash": "298a69a0749d11ff42595ddd40f60127314227a46a49e3a4a28d23de265b0668",
+    "logoFit": "contain",
+    "backgroundPresetIds": [
+      "background-1",
+      "background-2",
+      "background-3"
+    ],
+    "backgroundPresetFits": [
+      "cover",
+      "cover",
+      "cover"
+    ]
   }
 }
