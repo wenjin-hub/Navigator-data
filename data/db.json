@@ -824,6 +824,15 @@
           "desc": "",
           "icon": "",
           "tags": []
+        },
+        {
+          "id": 111,
+          "tags": [],
+          "name": "问津导航",
+          "url": "https://wenjin-navigator.pages.dev/#/",
+          "desc": "专注精品实用的导航网站",
+          "icon": "https://wenjin-navigator.pages.dev/assets/logo.089db2358f.png",
+          "iconFit": "contain"
         }
       ],
       "ownVisible": true
