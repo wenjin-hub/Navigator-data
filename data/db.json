@@ -816,6 +816,14 @@
           "desc": "",
           "icon": "",
           "tags": []
+        },
+        {
+          "id": 103,
+          "name": "0.问津导航",
+          "url": "https://nav-4bs.pages.dev/#",
+          "desc": "",
+          "icon": "",
+          "tags": []
         }
       ],
       "ownVisible": true
@@ -829,16 +837,7 @@
           "id": 102,
           "title": "书签栏",
           "icon": "",
-          "nav": [
-            {
-              "id": 103,
-              "name": "0.问津导航",
-              "url": "https://nav-4bs.pages.dev/#",
-              "desc": "",
-              "icon": "",
-              "tags": []
-            }
-          ]
+          "nav": []
         },
         {
           "id": 106,
