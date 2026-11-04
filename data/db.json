@@ -318,6 +318,15 @@
               "index": "",
               "ownVisible": false,
               "topTypes": []
+            },
+            {
+              "id": 110,
+              "tags": [],
+              "name": "PanLite",
+              "url": "https://panlite.pages.dev/",
+              "desc": "网盘聚合搜索，免登录、免转存、零广告，打开即搜",
+              "icon": "https://panlite.pages.dev/assets/icons/brand.svg",
+              "iconFit": "contain"
             }
           ]
         },
