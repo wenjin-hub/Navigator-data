@@ -923,6 +923,15 @@
       "category": "网盘",
       "url": "https://panhub.shenzjd.com/?kw=${q}",
       "isInner": false
+    },
+    {
+      "category": "搜索",
+      "name": "R3临时验收引擎",
+      "url": "https://example.com/search?q=",
+      "icon": "",
+      "placeholder": "",
+      "isInner": false,
+      "needsSearchUrl": false
     }
   ],
   "searchCatalogRevision": 2,
