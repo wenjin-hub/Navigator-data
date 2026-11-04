@@ -792,6 +792,14 @@
               "topTypes": []
             }
           ]
+        },
+        {
+          "id": 109,
+          "name": "WildAI | ChatGPT Plus/Pro、Claude Pro/Max 獨立帳號訂閱",
+          "url": "https://bewild.ai/?code=521",
+          "desc": "",
+          "icon": "",
+          "tags": []
         }
       ],
       "ownVisible": true
@@ -833,14 +841,6 @@
               "id": 108,
               "name": "AI工具、开源项目与自托管软件 | ahhhhfs",
               "url": "https://www.ahhhhfs.com/",
-              "desc": "",
-              "icon": "",
-              "tags": []
-            },
-            {
-              "id": 109,
-              "name": "WildAI | ChatGPT Plus/Pro、Claude Pro/Max 獨立帳號訂閱",
-              "url": "https://bewild.ai/?code=521",
               "desc": "",
               "icon": "",
               "tags": []
