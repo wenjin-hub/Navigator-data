@@ -804,37 +804,37 @@
               "desc": "",
               "icon": "",
               "tags": []
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "title": "移动设备书签",
+          "icon": "",
+          "nav": [
+            {
+              "id": 107,
+              "name": "签到管理 - APP喵：资源",
+              "url": "https://www.appmiu.com/mission/today",
+              "desc": "",
+              "icon": "",
+              "tags": []
             },
             {
-              "id": 106,
-              "title": "移动设备书签",
+              "id": 108,
+              "name": "AI工具、开源项目与自托管软件 | ahhhhfs",
+              "url": "https://www.ahhhhfs.com/",
+              "desc": "",
               "icon": "",
-              "nav": [
-                {
-                  "id": 107,
-                  "name": "签到管理 - APP喵：资源",
-                  "url": "https://www.appmiu.com/mission/today",
-                  "desc": "",
-                  "icon": "",
-                  "tags": []
-                },
-                {
-                  "id": 108,
-                  "name": "AI工具、开源项目与自托管软件 | ahhhhfs",
-                  "url": "https://www.ahhhhfs.com/",
-                  "desc": "",
-                  "icon": "",
-                  "tags": []
-                },
-                {
-                  "id": 109,
-                  "name": "WildAI | ChatGPT Plus/Pro、Claude Pro/Max 獨立帳號訂閱",
-                  "url": "https://bewild.ai/?code=521",
-                  "desc": "",
-                  "icon": "",
-                  "tags": []
-                }
-              ]
+              "tags": []
+            },
+            {
+              "id": 109,
+              "name": "WildAI | ChatGPT Plus/Pro、Claude Pro/Max 獨立帳號訂閱",
+              "url": "https://bewild.ai/?code=521",
+              "desc": "",
+              "icon": "",
+              "tags": []
             }
           ]
         }
