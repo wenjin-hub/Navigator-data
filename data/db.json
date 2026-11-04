@@ -955,15 +955,15 @@
       "isInner": false
     },
     {
-      "name": "大盘搜",
-      "category": "网盘",
-      "url": "https://dapanso.com/search?q=${q}",
-      "isInner": false
-    },
-    {
       "name": "PanHub",
       "category": "网盘",
       "url": "https://panhub.shenzjd.com/?kw=${q}",
+      "isInner": false
+    },
+    {
+      "name": "大盘搜",
+      "category": "网盘",
+      "url": "https://dapanso.com/search?q=${q}",
       "isInner": false
     }
   ],
