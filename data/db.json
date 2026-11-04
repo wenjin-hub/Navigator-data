@@ -805,7 +805,7 @@
   "tags": [],
   "settings": {
     "title": "问津导航 - 精选实用导航网站",
-    "description": "问津导航是一个专注精品实用的导航网站",
+    "description": "问津导航 R3 云端保存验收 1",
     "keywords": "导航,网址收藏,私人导航,问津导航",
     "favicon": "./assets/logo.089db2358f.png",
     "language": "zh-CN",
@@ -837,6 +837,7 @@
     "layoutOptions": {
       "clear": {
         "background": "./assets/background-1.b4a736962d.jpg",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
@@ -844,6 +845,7 @@
       },
       "launchpad": {
         "background": "./assets/background-1.b4a736962d.jpg",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
@@ -851,6 +853,7 @@
       },
       "panorama": {
         "background": "./assets/background-1.b4a736962d.jpg",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 50,
         "sectionOpacity": 25,
@@ -858,6 +861,7 @@
       },
       "board": {
         "background": "./assets/background-1.b4a736962d.jpg",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
@@ -865,6 +869,7 @@
       },
       "mobile": {
         "background": "./assets/background-1.b4a736962d.jpg",
+        "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 100,
         "sectionOpacity": 100,
@@ -941,6 +946,7 @@
       "./assets/background-4.8dda920715.jpg"
     ],
     "desktopColumns": 6,
-    "accessPwdHash": "298a69a0749d11ff42595ddd40f60127314227a46a49e3a4a28d23de265b0668"
+    "accessPwdHash": "298a69a0749d11ff42595ddd40f60127314227a46a49e3a4a28d23de265b0668",
+    "logoFit": "contain"
   }
 }
