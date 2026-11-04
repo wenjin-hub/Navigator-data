@@ -827,25 +827,6 @@
         }
       ],
       "ownVisible": true
-    },
-    {
-      "id": 101,
-      "title": "浏览器新增",
-      "icon": "",
-      "nav": [
-        {
-          "id": 102,
-          "title": "书签栏",
-          "icon": "",
-          "nav": []
-        },
-        {
-          "id": 106,
-          "title": "移动设备书签",
-          "icon": "",
-          "nav": []
-        }
-      ]
     }
   ],
   "searchEngines": [
