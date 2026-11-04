@@ -937,15 +937,15 @@
       "blocked": true
     },
     {
-      "name": "百度",
-      "category": "搜索",
-      "url": "https://www.baidu.com/s?wd=",
-      "isInner": false
-    },
-    {
       "name": "谷歌",
       "category": "搜索",
       "url": "https://www.google.com/search?q=",
+      "isInner": false
+    },
+    {
+      "name": "百度",
+      "category": "搜索",
+      "url": "https://www.baidu.com/s?wd=",
       "isInner": false
     },
     {
