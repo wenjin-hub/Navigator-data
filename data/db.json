@@ -248,6 +248,15 @@
           "icon": "",
           "nav": [
             {
+              "id": 110,
+              "tags": [],
+              "name": "PanLite",
+              "url": "https://panlite.pages.dev/",
+              "desc": "网盘聚合搜索，免登录、免转存、零广告，打开即搜",
+              "icon": "https://panlite.pages.dev/assets/icons/brand.svg",
+              "iconFit": "contain"
+            },
+            {
               "name": "PanHub - 最全网盘搜索",
               "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC8klEQVR4nExTS0iVQRT+zsz8D+/VtCvYRSqVguxhr1UQUUGPRRC1KGhXRATRImsRLnpALWoRLSIoIlq2cFHLpIdRLXSTRZAkwS00UEPN8nEf/8zpzH9N+mH4hzPzfXPO+c5nAJAszl4826HCmv1KU86RglISVUbWf3+j5a8nE5v0zJ6//MljPRh1XZ0nVBzelsN6CvxluW08iU73rKga07KYPWyare38debiI6rrutBOmgYoCmJ2tqIlBWgNJ8SzNgEJKBNFEqqSOa2YojCAtcVK4rYaUryPwtCDrdLaeJBjiyAIcHXnXlJCcL3vDfu4Jo2sDuCSxFIcx0ZV9ipJOS+vszLGzTuLXW2r6cj6TVRKEspla5HL1KJkEzqyZj3tWtFGc0KktHEUR+yxyoHYp0ykZEPU0tCIjmXNyMYxXn8bxKvCZ2Rkv7Epj5b6BjDJp5RfcERsfF0+5muWJvGDgX6KamLc3bkDtlwBS1N3r1yOzv53KMrrUSzVpj0VAQRrpGdp00rscGnHHnLS8cGfI1gisfbmRphMjMLcPA61tqG9aTkirenahz7UyLmSrKsZLEiVr6uDFb6PYw6tuQa8n5nB2Pg4Yrls5XyZ9CPQ1bse41U2TmuWdBCHIc71PuOSs+T1PrVhLbY35zE1X8Sdoa/oHhnG0x/DiMKI4yBMSZzRvgfVIREFMZeU6di6jVi1tBGHn7/EgdbWVP8XY6O4smUbCrN/8LgwJAJ4AoWFHkgThEkGgzUFPDo/R2UpowzG5qaWdJC6h7/jy+8pTFbKMKFhAbPHyLNkRI8Jds6rQH7i3o6OsBPmOIqRr816xbyM/GSkIDVrmUp53fvHWtFQTZgyozcUd4gXjHNcyYShcErTpLJzfb3p/AfGoMZ4jwhO5kZFMnmCKZLrrZrp3s2TJgxvkTb1kDFPlfHGESLxyWK96UrNhGmuVC5MHjz+kBbtfP9GRxRE+xkq5534r7miV2plJZZ2JiWe5GKpZ+ro6dTOfwEAAP//daFF7QAAAAZJREFUAwCsCQu0kfZYAgAAAABJRU5ErkJggg==",
               "url": "https://panhub.shenzjd.com",
@@ -318,15 +327,6 @@
               "index": "",
               "ownVisible": false,
               "topTypes": []
-            },
-            {
-              "id": 110,
-              "tags": [],
-              "name": "PanLite",
-              "url": "https://panlite.pages.dev/",
-              "desc": "网盘聚合搜索，免登录、免转存、零广告，打开即搜",
-              "icon": "https://panlite.pages.dev/assets/icons/brand.svg",
-              "iconFit": "contain"
             }
           ]
         },
