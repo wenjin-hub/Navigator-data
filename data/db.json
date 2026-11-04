@@ -786,6 +786,59 @@
         }
       ],
       "ownVisible": true
+    },
+    {
+      "id": 101,
+      "title": "浏览器新增",
+      "icon": "",
+      "nav": [
+        {
+          "id": 102,
+          "title": "书签栏",
+          "icon": "",
+          "nav": [
+            {
+              "id": 103,
+              "name": "0.问津导航",
+              "url": "https://nav-4bs.pages.dev/#",
+              "desc": "",
+              "icon": "",
+              "tags": []
+            },
+            {
+              "id": 106,
+              "title": "移动设备书签",
+              "icon": "",
+              "nav": [
+                {
+                  "id": 107,
+                  "name": "签到管理 - APP喵：资源",
+                  "url": "https://www.appmiu.com/mission/today",
+                  "desc": "",
+                  "icon": "",
+                  "tags": []
+                },
+                {
+                  "id": 108,
+                  "name": "AI工具、开源项目与自托管软件 | ahhhhfs",
+                  "url": "https://www.ahhhhfs.com/",
+                  "desc": "",
+                  "icon": "",
+                  "tags": []
+                },
+                {
+                  "id": 109,
+                  "name": "WildAI | ChatGPT Plus/Pro、Claude Pro/Max 獨立帳號訂閱",
+                  "url": "https://bewild.ai/?code=521",
+                  "desc": "",
+                  "icon": "",
+                  "tags": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "searchEngines": [
@@ -833,11 +886,11 @@
       "board",
       "mobile"
     ],
-    "accessPwdHash": "7fd030915963d3fc114e3bb23e7170b48052278276c3385bd0b03d229a74490e",
+    "accessPwdHash": "4c0279940cc283c3e09a5b5761b6b73cf9dfc19343780f481ceb68c7f4057f64",
     "layoutOptions": {
       "clear": {
         "background": "./assets/background-1.b4a736962d.jpg",
-        "cardStyle": "",
+        "cardStyle": "standard",
         "cardOpacity": 100,
         "sectionOpacity": 100,
         "columns": 6
@@ -887,12 +940,6 @@
       "name": "百度",
       "category": "搜索",
       "url": "https://www.baidu.com/s?wd=",
-      "isInner": false
-    },
-    {
-      "name": "必应",
-      "category": "搜索",
-      "url": "https://www.bing.com/search?q=",
       "isInner": false
     },
     {
