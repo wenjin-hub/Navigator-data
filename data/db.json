@@ -924,7 +924,7 @@
         "backgroundFit": "cover",
         "cardStyle": "",
         "cardOpacity": 50,
-        "sectionOpacity": 25,
+        "sectionOpacity": 15,
         "columns": 6
       },
       "board": {
