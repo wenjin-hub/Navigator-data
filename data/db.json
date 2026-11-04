@@ -61,6 +61,15 @@
               "id": 90
             }
           ]
+        },
+        {
+          "id": 101,
+          "tags": [],
+          "name": "R3临时验收网址",
+          "url": "https://example.com/wenjin-r3-qa",
+          "desc": "",
+          "icon": "",
+          "iconFit": "contain"
         }
       ]
     },
